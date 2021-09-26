@@ -17,6 +17,10 @@ The model will predict MechaCar prototypes quite effectively, but there is room 
 Current manufacturing data does not meet design specifications. Variance of suspension coils in Lot 3 far exceeds the design specifications limit of 100psi. 
 Lot 1 and Lot 2 on the other hand meet the criteria with variances of 0.99 and 7.47 respectively. 
 
+## T-Tests on Suspension Coils
+
+![](images/coils.png)
+The results of the T-test for the suspension coils across all manufacturing lots shows that they are not statistically different from the population mean, and the p-value is not low enough (0.0603) for us to reject the null hypothesis. This result is reinforced when looking individually at Lot 1 and Lot 2. The results from Lot 3 however show a p-value = 0.042, a value that suggests a  statistical difference to the population mean and that enables us to reject the null hypothesis. 
 
 ## Study Design: MechaCar vs Competition
 
