@@ -50,7 +50,7 @@ I would compare the Mechacar to the competition by focusing on metrics like hors
 
 #### Null and Alternative Hypothesis
 H<sub>0</sub> : Mechacar's mileage per gallon is similar to competitor's vehicles of the same horsepower and safety rating.<br>
-H<sub>a</sub> : Mechacar's milage per gallon is statistically above or below competitor's vehicles of the same horsepower and safety rating.
+H<sub>a</sub> : Mechacar's mileage per gallon is statistically above or below competitor's vehicles of the same horsepower and safety rating.
 
 This is a two tailed hypotheses and we will use the **analysis of variance (ANOVA)** test as we are looking to compare the means across various samples. 
 
