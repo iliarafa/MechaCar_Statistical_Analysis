@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 ## Overview
 
-AutosRUs’ newest prototype, the **MechaCar**, is suffering from production troubles that are blocking the manufacturing progress. We are called to review the production data for insights that may help the manufacturing team.
+The newest prototype by **AutosRU** , the **MechaCar**, is suffering from production troubles that are blocking the manufacturing progress. We are called to review the production data for insights that may help the manufacturing team.
 
 To complete this we will :<br>
 - Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes<br>
@@ -49,8 +49,8 @@ There is so much more into what makes a car burn more or less fuel. It might be 
 I would compare the Mechacar to the competition by focusing on metrics like horse power and safety rating. These metrics add two essential layers that clarify the quality of the car performance.  I would then use the new results to show how any mileage per gallon above the average is atributted either to higher performance or higher safety rating standards of Mechacar compared to the competition. <br>
 
 #### Null and Alternative Hypothesis
-H<sub>0</sub>:Mechacar's mileage per gallon is similar to competitor's vehicles of the same horsepower and safety rating.<br>
-H<sub>a</sub>:Mechacar's milage per gallon is statistically above or below competitor's vehicles of the same horsepower and safety rating.
+H<sub>0</sub> : Mechacar's mileage per gallon is similar to competitor's vehicles of the same horsepower and safety rating.<br>
+H<sub>a</sub> : Mechacar's milage per gallon is statistically above or below competitor's vehicles of the same horsepower and safety rating.
 
 This is a two tailed hypotheses and we will use the **analysis of variance (ANOVA)** test as we are looking to compare the means across various samples. 
 
