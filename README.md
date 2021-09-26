@@ -29,9 +29,10 @@ The model will predict MechaCar prototypes with relative effectiveness, but ther
 ## Summary Statistics on Suspension Coils 
 ![](images/total_summary.png)
 <br><br>
+Looking at the manufacturing data from all lots we notice a cumulative variance of 62, a very high number. To better understand this we look at the lots separately.  Variance of suspension coils in Lot 3 far exceeds the design specifications limit of 100psi by 70.29psi ; Lot 1 and Lot 2 on the other hand meet the criteria with variances of 0.99 and 7.47 respectively. That means current manufacturing data **does not meet design specifications**.
+<br><br>
 ![](images/lot_summary.png)
 <br><br>
-Looking at the manufacturing data from all lots we notice a cumulative variance of 62, a very high number. To better understand this we look at the lots separately.  Variance of suspension coils in Lot 3 far exceeds the design specifications limit of 100psi by 70.29psi ; Lot 1 and Lot 2 on the other hand meet the criteria with variances of 0.99 and 7.47 respectively. That means current manufacturing data **does not meet design specifications**.
 
 ## T-Tests on Suspension Coils
 
